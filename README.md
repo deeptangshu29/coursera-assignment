@@ -1,1 +1,5 @@
-I am editing the README file. Adding some more details about the project description.
+# Coursera Assignment
+Made by Deeptangshu Dutta for the Introduction to Git Course offered by Google in Coursera.
+
+--
+Thank You
